@@ -86,6 +86,7 @@ programmer_hash[:yukihiro_matsumoto] << :known_for
 programmer_hash[:yukihiro_matsumoto][:known_for] << "Ruby"
 programmer_hash[:yukihiro_matsumoto] << :languages
 programmer_hash[:yukihiro_matsumoto][:languages] << "LISP", "C"
+programmer_hash
 end
 
 def changing_alan
